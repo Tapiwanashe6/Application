@@ -1,0 +1,77 @@
+Food Quality: 5
+Service Efficiency: 4
+Menu Variety: 2
+Comments: ghgjg
+
+Food Quality: 5
+Service Efficiency: 4
+Menu Variety: 4
+Comments: kl
+
+Food Quality: 2
+Service Efficiency: 3
+Menu Variety: 4
+Comments: good
+
+Food Quality: 3
+Service Efficiency: 4
+Menu Variety: 5
+Comments: good
+
+Food Quality: 3
+Service Efficiency: 4
+Menu Variety: 3
+Comments: 2
+
+Food Quality: 2
+Service Efficiency: 3
+Menu Variety: 4
+Comments: good
+
+Food Quality: 2
+Service Efficiency: 2
+Menu Variety: 2
+Comments: ggg
+
+Food Quality: 2
+Service Efficiency: 2
+Menu Variety: 2
+Comments: ggg
+
+Food Quality: 2
+Service Efficiency: 2
+Menu Variety: 2
+Comments: good
+
+Food Quality: 2
+Service Efficiency: 2
+Menu Variety: 2
+Comments: kk
+
+Food Quality: 2
+Service Efficiency: 2
+Menu Variety: 2
+Comments: gg
+
+Food Quality: 2
+Service Efficiency: 2
+Menu Variety: 2
+Comments: ff
+
+Food Quality: 2
+Service Efficiency: 2
+Menu Variety: 2
+Comments: gg
+
+Food Quality: 2
+Service Efficiency: 2
+Menu Variety: 2
+Comments: ff
+
+Food Quality: 2
+Service Efficiency: 3
+Menu Variety: 4
+Comments: good
+
+{'food_quality': 2, 'service_efficiency': 2, 'menu_variety': 2, 'additional_comments': 'ffg'}
+{'food_quality': 2, 'service_efficiency': 2, 'menu_variety': 2, 'additional_comments': 'ggoo'}
